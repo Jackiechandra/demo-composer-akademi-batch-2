@@ -1,0 +1,22 @@
+{
+    "name": "jackiechandra/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "jackiechandra\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Jackie Chandra",
+            "email": "jackie.chandra@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
+
